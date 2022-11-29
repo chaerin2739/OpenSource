@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main.dir/main.c.o -o main   -L/home/ycr/opensource/exam/lib_build  -Wl,-rpath,/home/ycr/opensource/exam/lib_build -lreverse 

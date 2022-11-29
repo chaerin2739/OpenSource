@@ -1,0 +1,3 @@
+/home/ycr/opensource/exam/CMakeFiles/main_for_so.dir
+/home/ycr/opensource/exam/CMakeFiles/edit_cache.dir
+/home/ycr/opensource/exam/CMakeFiles/rebuild_cache.dir
