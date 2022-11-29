@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0.2)
+project (Mymain2)
+set ( PROJECT_LINK_LIBS libreverseCopy.a)
+link_directories( /home/ycr/opensource/exam2/lib_build )
+include_directories(/home/ycr/opensource/exam2)
+add_executable(main_for_a mmain.c)
+target_link_libraries(main_for_a ${PROJECT_LINK_LIBS} )

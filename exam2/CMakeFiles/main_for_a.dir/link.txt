@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main_for_a.dir/mmain.c.o -o main_for_a   -L/home/ycr/opensource/exam2/lib_build  -Wl,-rpath,/home/ycr/opensource/exam2/lib_build -Wl,-Bstatic -lreverseCopy -Wl,-Bdynamic 

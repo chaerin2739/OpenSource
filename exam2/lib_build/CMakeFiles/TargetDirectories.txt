@@ -1,0 +1,7 @@
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/reverseCopy.dir
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/edit_cache.dir
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/rebuild_cache.dir
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/list_install_components.dir
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/install.dir
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/install/local.dir
+/home/ycr/opensource/exam2/lib_build/CMakeFiles/install/strip.dir
